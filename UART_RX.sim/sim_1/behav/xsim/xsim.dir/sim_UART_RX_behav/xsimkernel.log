@@ -1,0 +1,7 @@
+Running: xsim.dir/sim_UART_RX_behav/xsimk -simmode gui -wdb sim_UART_RX_behav.wdb -simrunnum 0 -socket 41793
+Design successfully loaded
+Design Loading Memory Usage: 29124 KB (Peak: 29784 KB)
+Design Loading CPU Usage: 70 ms
+Simulation completed
+Simulation Memory Usage: 119060 KB (Peak: 168392 KB)
+Simulation CPU Usage: 90 ms

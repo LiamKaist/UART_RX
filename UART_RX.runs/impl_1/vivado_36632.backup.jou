@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 04:59:54 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Sat Oct  5 09:52:42 2024
+# Process ID: 36632
+# Current directory: /home/lilultime/PersonalProjects/Vivado_Projects/UART_RX/UART_RX.runs/impl_1
+# Command line: vivado -log RX_UART.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source RX_UART.tcl -notrace
+# Log file: /home/lilultime/PersonalProjects/Vivado_Projects/UART_RX/UART_RX.runs/impl_1/RX_UART.vdi
+# Journal file: /home/lilultime/PersonalProjects/Vivado_Projects/UART_RX/UART_RX.runs/impl_1/vivado.jou
+# Running On: lilultime-Lenovo-Y520-15IKBN, OS: Linux, CPU Frequency: 3776.299 MHz, CPU Physical cores: 4, Host memory: 8207 MB
+#-----------------------------------------------------------
+source RX_UART.tcl -notrace
